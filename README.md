@@ -2,6 +2,8 @@
 
 ## 資料へのリンク
 
+### [講義資料はこちらにあります。](https://drive.google.com/drive/folders/1hjVmAH45SxB8lc_oaQDVWhYKrQ4osubH?usp=sharing)
+
 ## 環境設定のコマンド
 
 最終的なゴールについては全て同じ。次のコマンドでポップアウトが正しく出力されたらTAを呼び確認する。
