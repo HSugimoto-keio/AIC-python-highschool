@@ -51,3 +51,31 @@ deactivate
 ```
 基本的には作業が終わったらdeactivateを行うように心掛ける。
 
+
+## プログラム実行時
+基本的には仮想環境下で次のコマンドで実行できる。(以下はtennisの場合)
+
+Windowsの場合
+```powershell
+(myenv)> python3 .\Desktop\tennis\tennis\main.py
+```
+
+Mac の場合
+```bash
+(myenv)$ python3 ./Desktop/tennis/main.py
+```
+
+WSLの場合
+```bash
+(myenv) $ python3 ./tennis/main.py
+```
+
+なお、MacとWSLに限り次のコマンドでpython3をつけずに実行できる。
+```bash
+(myenv) $ ./tennis/main.py
+```
+
+(動かない場合は権限がない場合なので次のコマンドで実行権限を付与)
+```bash
+(myenv) $ chmod +x ./tennis/main.py
+```
