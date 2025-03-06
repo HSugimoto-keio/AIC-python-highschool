@@ -2,7 +2,7 @@
 
 ## 資料へのリンク
 
-### [講義資料はこちらにあります。](https://drive.google.com/drive/folders/1hjVmAH45SxB8lc_oaQDVWhYKrQ4osubH?usp=sharing)
+### [講義資料はこちらにあります。](https://drive.google.com/drive/folders/1pCcRNl8uMgQS5kGeErFf_4HnILDUw7eY)
 
 ## 環境設定のコマンド
 
