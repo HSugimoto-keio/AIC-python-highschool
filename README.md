@@ -29,10 +29,10 @@ $ python3 -m tkinter
 [WSL](./WSL.md)
 
 ## Mac
-[Mac](./Mac.md)
+[Mac](./Mac.md)または[Mac_pyenv](./Mac_pyenv.md)
 
 
-## 設定後の実行方法
+## 設定後の実行方法（pyenvを使用しない場合）
 前提として、仮想環境で実行することを想定している。
 開いているシェルの先頭に(myenv)が付いていない時は仮想環境ではないため仮想環境にする必要がある。
 
@@ -63,6 +63,11 @@ Windowsの場合
 Mac の場合
 ```bash
 (myenv)$ python3 ./Desktop/tennis/main.py
+```
+
+Mac_pyenvの場合
+```bash
+python ./Desktop/tennis/main.py
 ```
 
 WSLの場合
