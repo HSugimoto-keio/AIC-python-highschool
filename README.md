@@ -57,30 +57,20 @@ deactivate
 
 Windowsの場合
 ```powershell
-(myenv)> python3 .\Desktop\tennis\tennis\main.py
+(myenv)> python3 reversi.py
 ```
 
 Mac の場合
 ```bash
-(myenv)$ python3 ./Desktop/tennis/main.py
+(myenv)$ python3 reversi.py
 ```
 
 Mac_pyenvの場合
 ```bash
-python ./Desktop/tennis/main.py
+python reversi.py
 ```
 
 WSLの場合
 ```bash
-(myenv) $ python3 ./tennis/main.py
-```
-
-なお、MacとWSLに限り次のコマンドでpython3をつけずに実行できる。
-```bash
-(myenv) $ ./tennis/main.py
-```
-
-(動かない場合は権限がない場合なので次のコマンドで実行権限を付与)
-```bash
-(myenv) $ chmod +x ./tennis/main.py
+(myenv) $ python3 reversi.py
 ```
