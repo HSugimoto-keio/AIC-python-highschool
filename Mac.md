@@ -44,3 +44,12 @@ $ source myenv/bin/activate
 ```zsh
 (myenv)$ python3 -m pip install pytk
 ```
+あるいは
+```zsh
+(myenv)$ brew install python-tk
+```
+
+もし、python3.13を使っている場合は次のようにバージョンを指定すると確実
+```zsh
+(myenv)$ brew install python-tk@3.13
+```
